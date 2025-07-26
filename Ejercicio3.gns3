@@ -48,7 +48,7 @@
                 "drawing_id": "3fcd82d7-bbb6-49b8-ab2b-b0d06f0785e0",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"183\" height=\"29\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">Red de Management</text></svg>",
+                "svg": "<svg width=\"141\" height=\"24\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">Red de Management</text></svg>",
                 "x": -148,
                 "y": -37,
                 "z": 2
@@ -501,7 +501,7 @@
         "nodes": [
             {
                 "compute_id": "vm",
-                "console": 5900,
+                "console": 5902,
                 "console_auto_start": false,
                 "console_type": "vnc",
                 "custom_adapters": [],
@@ -571,7 +571,7 @@
             },
             {
                 "compute_id": "vm",
-                "console": 5011,
+                "console": 5013,
                 "console_auto_start": false,
                 "console_type": "telnet",
                 "custom_adapters": [],
@@ -628,7 +628,7 @@
             },
             {
                 "compute_id": "vm",
-                "console": 5012,
+                "console": 5014,
                 "console_auto_start": false,
                 "console_type": "telnet",
                 "custom_adapters": [],
@@ -657,7 +657,7 @@
             },
             {
                 "compute_id": "vm",
-                "console": 5014,
+                "console": 5017,
                 "console_auto_start": false,
                 "console_type": "telnet",
                 "custom_adapters": [],
@@ -686,7 +686,7 @@
             },
             {
                 "compute_id": "vm",
-                "console": 5018,
+                "console": 5019,
                 "console_auto_start": false,
                 "console_type": "telnet",
                 "custom_adapters": [],
@@ -1004,7 +1004,7 @@
             },
             {
                 "compute_id": "vm",
-                "console": 5007,
+                "console": 5026,
                 "console_auto_start": false,
                 "console_type": "telnet",
                 "custom_adapters": [],
